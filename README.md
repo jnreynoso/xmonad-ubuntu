@@ -4,8 +4,8 @@ xmonad-ubuntu
 Still has only been tested in Ubuntu 14.04 and also install variety
 
 # Installation
-
-git clone git@github.com/CestDiego/xmonad-ubuntu ~/.xmonad
+@
+git clone git@github.com:Ov3rfl0w/xmonad-ubuntu ~/.xmonad
 
 ## Then you can run the installation script by just doing
 
